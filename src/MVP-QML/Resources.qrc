@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="qml/Controls/Button.qml">../Common/qml/Controls/Button.qml</file>
+        <file alias="qml/Controls/TextField.qml">../Common/qml/Controls/TextField.qml</file>
+        <file>qml/View.qml</file>
+    </qresource>
+</RCC>
